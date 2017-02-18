@@ -36,7 +36,7 @@
     "gulp-load-plugins": "^1.2.4",
     "gulp-shell": "^0.5.2",
     "run-sequence": "^1.2.2",
-    "rimraf": "^2.5.2",
+    "rimraf": "^2.6.0",
     "concurrently": "^3.1.0",
     "tslint": "^4.0.1",
     "typescript": "^2.0.10",
