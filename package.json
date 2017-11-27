@@ -59,7 +59,7 @@
     "style-loader": "^0.13.1",
     "ts-loader": "^1.2.2",
     "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": "^2.9.5",
     "webpack-merge": "^0.18.0"
   },
   "license": "MIT"
